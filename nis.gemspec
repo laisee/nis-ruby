@@ -45,5 +45,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'base32', '~> 0.3'
   spec.add_dependency 'faraday', '~> 0.11'
   spec.add_dependency 'faraday_middleware', '~> 0.11'
-  spec.add_dependency 'thor', '~> 0.19'
+  spec.add_dependency 'thor', '~> 1.4.0'
 end
